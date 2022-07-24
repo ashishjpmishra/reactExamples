@@ -1,0 +1,10 @@
+.MainContainer{
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.Strike{
+    text-decoration: line-through;
+    color: green
+}

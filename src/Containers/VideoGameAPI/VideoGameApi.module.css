@@ -1,0 +1,47 @@
+.mainContainer{
+    text-align: center;
+    width: 700px;
+    height:100vh;
+    margin:0 auto;
+    border: 2px solid #ccc;
+    display: flex;
+    flex-direction: column;
+}
+
+.searchSection{
+    height: 50%;
+    background-color: #ccc;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.searchSection input, .searchSection button {
+    width: 30%;
+    margin:10px auto;
+    padding: 10px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+button{
+    text-decoration: solid;
+}
+
+.ResultsArea{
+    display: flex;
+    margin:0 auto 10px auto;
+    padding: 10px;
+}
+
+.SearchItem{
+    width: 150px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 2px solid rgb(223, 152, 152)
+}
+
+.dealsSection{
+    height: 50%;
+}

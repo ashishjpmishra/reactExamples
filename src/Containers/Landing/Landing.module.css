@@ -1,0 +1,14 @@
+.Landing{
+    padding: 10%;
+    display: flex;
+}
+
+.ProjectCard{
+    width:150px;
+    height:100px;
+    margin:10px;
+    text-align: center;
+    color: rgb(34, 13, 13);
+    font-size: 20px;
+    background-color: rgb(5, 187, 123);
+}

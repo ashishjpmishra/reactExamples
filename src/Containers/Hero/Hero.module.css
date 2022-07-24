@@ -1,0 +1,22 @@
+.MainContainer{
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.Form{
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    margin:10px
+}
+
+button{
+    padding: 10px !important;
+    outline: none;
+    border: none;
+    border-radius: 5px !important;
+    background-color: #ccc !important;
+}

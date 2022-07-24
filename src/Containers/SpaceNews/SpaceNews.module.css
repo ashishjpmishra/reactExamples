@@ -1,0 +1,23 @@
+.mainContainer{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.NewsContainer{
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+p,b{
+    margin:10px
+}
+
+img{
+    width: 100%;
+}
